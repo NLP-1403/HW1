@@ -1,6 +1,5 @@
 # HW1
-
-It's the first homework of Natural Language Processing course in Spring 2024 at Sharif University of Technology.
+It's the first homework of Natural Language Processing course in Spring 2024 at Sharif University of Technology. It's about preprocessing and doing some NLP tasks on a dataset.
 
 In this project, each of us processed specific Persian or English data obtained through crawling or by using pre-existing datasets. Depending on the characteristics and type of dataset, as well as the target processing task, we first performed appropriate preprocessing steps and then carried out a processing task on the data.
 
